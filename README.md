@@ -59,3 +59,21 @@ Developed by: RegisterNumber:*/
 **Output/TIMING Waveform**
 
 **Result:**
+
+Result 1
+State Diagram
+<img width="1920" height="1080" alt="Pranitha E3a RTL" src="https://github.com/user-attachments/assets/f305708d-c796-4013-acae-d9570d09d11a" />
+
+Clock Pulse
+<img width="1920" height="1080" alt="Pranitha E3a CP" src="https://github.com/user-attachments/assets/6e2c0f58-2272-4983-af15-98703572c230" />
+
+
+Result 2
+State diagram
+<img width="1920" height="1080" alt="Pranitha E3b RTL" src="https://github.com/user-attachments/assets/5743bae9-ba03-493b-8f48-d2441e1c90d1" />
+
+Clock Pulse
+<img width="1920" height="1080" alt="Pranitha E3b CP" src="https://github.com/user-attachments/assets/9d592443-c13a-495a-81dc-38cfcd1803d0" />
+
+
+
